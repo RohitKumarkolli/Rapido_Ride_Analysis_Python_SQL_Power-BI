@@ -2,7 +2,8 @@
 Data Analysis showcasing Rapido Rides Using Python, SQL, Power BI
 
 
-# 🚕 Rapido Ride Analytics
+# <img width="922" height="495" alt="Screenshot 2025-12-10 112549" src="https://github.com/user-attachments/assets/6fc98b11-fe20-414f-a236-31defd74dc9a" />
+ Rapido Ride Analytics
 
 An end-to-end **Data Analytics project** analyzing Rapido ride-hailing data using **Python, SQL, and Power BI**. The project uncovers insights related to ride demand, peak hours, pricing patterns, cancellations, driver performance, and customer behavior, and provides business-focused recommendations.
 
@@ -52,8 +53,8 @@ The dataset consists of structured ride transaction logs.
 ## 🛠 Tools & Technologies
 
 * **Python**: Pandas, NumPy, Matplotlib, Seaborn
-* **SQL**: MySQL / PostgreSQL
-* **Power BI**: DAX, Power Query, Interactive Dashboards
+* **SQL**: PostgreSQL
+* **Power BI**: Interactive Dashboards
 * **Excel**: Initial data validation
 
 ---
